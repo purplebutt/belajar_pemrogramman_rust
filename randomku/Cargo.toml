@@ -1,0 +1,12 @@
+[package]
+name = "randomku"
+version = "0.1.0"
+edition = "2021"
+author = "yourname"
+readme = "README.md"
+description = "Simple random number generator"
+license = "MIT"
+repository = "https://github.com/your-github-account/randomku"
+
+
+[dependencies]

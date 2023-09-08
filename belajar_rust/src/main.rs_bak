@@ -1,0 +1,61 @@
+pub mod codes;
+pub mod chapter3;
+pub mod chapter4;
+pub mod chapter5;
+pub mod chapter6;
+pub mod chapter7;
+pub mod chapter8;
+pub mod chapter9;
+
+
+// use chapter5::fungsi::exec_other_func;
+// use chapter5::fungsi::add_one;
+// use chapter5::const_static::const_static_sample;
+// use chapter6::guess_game::{gg, cguess};
+// use chapter6::logical_operator::logical_operator;
+// use chapter6::logical_operator::animal;
+// use chapter6::logical_operator::iflet;
+// use chapter6::loops::while_let;
+// use chapter6::match_sample::match_demo;
+// use chapter7::struct_demo::hero_fight;
+// use chapter7::enum_demo::*;
+// use chapter7::pattern_matching::*;
+// use chapter7::enum_result::*;
+// use chapter7::option_and_result::*;
+// use chapter8::lifetime::*;
+// use chapter8::generic::*;
+// use chapter8::generic_struct::*;
+// use chapter8::generic_enum::*;
+// use chapter8::generic_method::*;
+// use chapter9::vector_bak::*;
+// use chapter9::vector::*;
+// use chapter9::coa::*;
+// use chapter9::hash_map::*;
+use chapter9::hash_set::*;
+
+fn main() {
+    vecdeque_demo();
+    hashset_demo();
+    // hashmap_other_functions();
+    // test();
+    // vec_demo(); 
+    
+    // create_hero();
+    // enum_impl();
+    // pattern_match_demo();
+    // option_demo();
+    // enum_result_demo();
+    // demo_option_result();
+    // lifetime_demo_fixed();
+    // lifetime_with_function();
+    // call_get_shorter();
+    // user_demo();
+    // must_print_1();
+    // must_print_2();
+    // mains();
+    // test_user();
+    // test_user2();
+    // test_user4();
+    // test1();
+    // test_user2();
+}
